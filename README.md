@@ -1,1 +1,3 @@
-# ri-sence
+# ri-cence
+
+https://opensource.org/license
