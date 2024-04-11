@@ -1,3 +1,3 @@
-# ri-cence
+# ri-cense
 
 https://opensource.org/license
